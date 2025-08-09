@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 💻 Frontend Developer passionate about **HTML, CSS, JavaScript**, and creating beautiful web experiences.
-- 🧪 Currently exploring **Animations**, **Canvas**, and **Web Audio API**.
+- 🧪 Currently exploring **Animations** to make the website feels alive.
 - 🌱 Always eager to learn new tools & techniques.
 - 🤝 Open to **collaborations** on creative frontend projects.
 - ✨ Designing with a flair for **neon & glassmorphism**.
@@ -18,8 +18,10 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,github,vscode" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,typescript,vuejs,react,figma,vscode,github" />
+  </a>
 </p>
 
 ---
