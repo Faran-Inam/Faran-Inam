@@ -31,16 +31,8 @@
 - 🔹 [**Rock-Paper-Scissors**](https://github.com/Faran-Inam/Rock-Paper-Scissors): Game with score tracking and autoplay.
 - 🔹 [**CyberNexus**](https://github.com/Faran-Inam/CyberNexus): Cyberpunk-themed website with neon visuals.
 - 🔹 [**Audio-Spectrum-Visualizer**](https://github.com/Faran-Inam/Audio-Spectrum-Visualizer): Real-time web audio spectrum visualizer.
+- 🔹 [**Tetris**](https://faran-inam.github.io/Tetris/): A Classic Tetris Game.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faran-Inam&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
