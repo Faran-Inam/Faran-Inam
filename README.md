@@ -26,11 +26,11 @@
 
 ### 📌 Featured Projects
 
-- 🔹 [**To-Do-List**](https://github.com/Faran-Inam/To-Do-List): Interactive to-do app with dark mode and animations.
-- 🔹 [**Clock**](https://github.com/Faran-Inam/Clock): Stylish digital clock with time format toggling.
-- 🔹 [**Rock-Paper-Scissors**](https://github.com/Faran-Inam/Rock-Paper-Scissors): Game with score tracking and autoplay.
-- 🔹 [**CyberNexus**](https://github.com/Faran-Inam/CyberNexus): Cyberpunk-themed website with neon visuals.
-- 🔹 [**Audio-Spectrum-Visualizer**](https://github.com/Faran-Inam/Audio-Spectrum-Visualizer): Real-time web audio spectrum visualizer.
+- 🔹 [**To-Do-List**](https://faran-inam.github.io/To-Do-List/): Interactive to-do app with dark mode and animations.
+- 🔹 [**Clock**](https://faran-inam.github.io/Clock/): Stylish digital clock with time format toggling.
+- 🔹 [**Rock-Paper-Scissors**](https://faran-inam.github.io/Rock-Paper-Scissors/): Game with score tracking and autoplay.
+- 🔹 [**CyberNexus**](https://faran-inam.github.io/CyberNexus/): Cyberpunk-themed website with neon visuals.
+- 🔹 [**Audio-Spectrum-Visualizer**](https://faran-inam.github.io/Audio-Spectrum-Visualizer/): Real-time web audio spectrum visualizer.
 - 🔹 [**Tetris**](https://faran-inam.github.io/Tetris/): A Classic Tetris Game.
 
 
