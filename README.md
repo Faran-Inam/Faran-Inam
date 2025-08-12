@@ -40,7 +40,7 @@
 
 - 📍 Gujranwala, Punjab, Pakistan  
 - 🕒 Local Time: UTC+05:00
-- 📧 **faraninam.18@gmail.com**
+- 📧 **faraninam.dev@gmail.com**
 
 ---
 
