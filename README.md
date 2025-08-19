@@ -26,7 +26,7 @@
 
 ### 📜 Certifications
 <p align="center">
-  <a href="https://www.freecodecamp.org/certification/faraninamullah/responsive-web-design" target="_blank">
+  <a href="https://www.freecodecamp.org/certification/faraninam/responsive-web-design" target="_blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-Certified-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   </a>
 </p>
