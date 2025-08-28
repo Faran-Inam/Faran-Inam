@@ -33,26 +33,15 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faran-inam&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faran-inam&theme=radical" alt="streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faran-inam&layout=compact&theme=radical" alt="languages" height="160"/>
-</p>
-
----
 
 ### 📌 Featured Projects
 
-- 🔹 [**To-Do-List**](https://faran-inam.github.io/To-Do-List/) – Interactive app with dark mode + animations  
-- 🔹 [**Clock**](https://faran-inam.github.io/Clock/) – Stylish digital clock with time toggles  
-- 🔹 [**Rock-Paper-Scissors**](https://faran-inam.github.io/Rock-Paper-Scissors/) – Game with score tracking + autoplay  
-- 🔹 [**CyberNexus**](https://faran-inam.github.io/CyberNexus/) – Cyberpunk-themed neon website  
-- 🔹 [**Audio Spectrum Visualizer**](https://faran-inam.github.io/Audio-Spectrum-Visualizer/) – Real-time audio viz tool  
-- 🔹 [**Tetris**](https://faran-inam.github.io/Tetris/) – A Classic Tetris Game  
+- 🔹 [**To-Do-List**](https://faraninamdev.github.io/To-Do-List/) – Interactive app with dark mode + animations  
+- 🔹 [**Clock**](https://faraninamdev.github.io/Clock/) – Stylish digital clock with time toggles  
+- 🔹 [**Rock-Paper-Scissors**](https://faraninamdev.github.io/Rock-Paper-Scissors/) – Game with score tracking + autoplay  
+- 🔹 [**CyberNexus**](https://faraninamdev.github.io/CyberNexus/) – Cyberpunk-themed neon website  
+- 🔹 [**Audio Spectrum Visualizer**](https://faraninamdev.github.io/Audio-Spectrum-Visualizer/) – Real-time audio viz tool  
+- 🔹 [**Tetris**](https://faraninamdev.github.io/Tetris/) – A Classic Tetris Game  
 
 ---
 
@@ -64,6 +53,3 @@
   <br><br>
   <a href="https://github.com/faran-inam"><img src="https://img.shields.io/github/followers/faran-inam?label=Follow&style=social"></a>
 </p>
----
-
-> “Code is like art — the cleaner and bolder it is, the more impact it makes.” 🎨
