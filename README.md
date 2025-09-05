@@ -51,5 +51,5 @@
   <br>
   📧 **faraninam.dev@gmail.com**
   <br><br>
-  <a href="https://github.com/faran-inam"><img src="https://img.shields.io/github/followers/faran-inam?label=Follow&style=social"></a>
+  <a href="https://github.com/faraninamdev"><img src="https://img.shields.io/github/followers/faraninamdev?label=Follow&style=social"></a>
 </p>
