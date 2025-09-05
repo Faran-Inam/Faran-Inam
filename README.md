@@ -49,7 +49,7 @@
 <p align="center">
   📍 Gujranwala, Punjab, Pakistan • 🕒 UTC+05:00  
   <br>
-  📧 **faraninam.dev@gmail.com**
+  📧 faraninam.dev@gmail.com
   <br><br>
   <a href="https://github.com/faraninamdev"><img src="https://img.shields.io/github/followers/faraninamdev?label=Follow&style=social"></a>
 </p>
